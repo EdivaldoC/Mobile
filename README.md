@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Food Delicioso é um projeto inovador de delivery de comida que visa proporcionar uma experiência conveniente e saborosa para os usuários. Desenvolvido como parte do projeto final da disciplina de Programação para dispositivos móveis. na Universidade Católica de Pernambuco, Food Delicioso tem como objetivo principal simplificar o processo de pedido de comida e entrega, conectando clientes a uma variedade de restaurantes locais.
+Food Delicioso é um projeto inovador de delivery de comida que visa proporcionar uma experiência conveniente e saborosa para os usuários. Desenvolvido como parte do projeto final da disciplina de Programação para dispositivos móveis. na Universidade Católica de Pernambuco, Food Delicioso tem como objetivo principal simplificar o processo de pedido de comida e entrega, conectando clientes a uma variedade de restaurantes locais
 
 ## Funcionalidades Principais
 
