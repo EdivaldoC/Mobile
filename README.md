@@ -67,6 +67,8 @@ Food Delicioso é um projeto inovador de delivery de comida que visa proporciona
 
 O Food Delicioso é um projeto em constante evolução. Se você deseja contribuir, sinta-se à vontade para criar issues, enviar pull requests ou fornecer feedback. Juntos, podemos tornar o FastEat ainda melhor!
 
+Fique tranquilo que estamos juntos nessa!
+
 ---
 
 **Equipe Food Delicioso - Programação para dispositivos móveis | Universidade Católica de Pernambuco**
