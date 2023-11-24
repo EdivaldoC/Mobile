@@ -71,4 +71,4 @@ O Food Delicioso é um projeto em constante evolução. Se você deseja contribu
 
 **Equipe Food Delicioso - Programação para dispositivos móveis | Universidade Católica de Pernambuco**
 
-Alunos: Bruna, Éber Candeia, Edivaldo coelho, Fabyane, Richard Henrique, Thyago Henrique, Silas Sousa.
+Alunos: Bruna Beatriz , Éber Candeia, Edivaldo coelho, Fabyane Nayara, Richard Henrique, Thyago Henrique, Silas Sousa.
