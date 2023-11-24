@@ -1,12 +1,12 @@
-# FastEat - Projeto de Delivery de Comida
+# Food Delicioso - Projeto de Delivery de Comida
 
 ## Descrição
 
-O FastEat é um projeto inovador de delivery de comida que visa proporcionar uma experiência conveniente e saborosa para os usuários. Desenvolvido como parte do projeto final da disciplina de Desenvolvimento de Software na Faculdade XYZ, o FastEat tem como objetivo principal simplificar o processo de pedido de comida e entrega, conectando clientes a uma variedade de restaurantes locais.
+Food Delicioso é um projeto inovador de delivery de comida que visa proporcionar uma experiência conveniente e saborosa para os usuários. Desenvolvido como parte do projeto final da disciplina de Programação para dispositivos móveis. na Universidade Católica de Pernambuco, Food Delicioso tem como objetivo principal simplificar o processo de pedido de comida e entrega, conectando clientes a uma variedade de restaurantes locais.
 
 ## Funcionalidades Principais
 
-- **Cadastro de Usuário e Restaurantes:**
+- **Cadastro de Usuário e Restaurantes**
     - Os usuários podem se cadastrar facilmente, fornecendo informações básicas.
     - Os restaurantes podem criar perfis detalhados, incluindo seu menu e opções de entrega.
 
@@ -32,7 +32,7 @@ O FastEat é um projeto inovador de delivery de comida que visa proporcionar uma
 ## Tecnologias Utilizadas
 
 - **Frontend:**
-    - React.js para uma interface de usuário dinâmica e responsiva.
+    - React Native
     - Redux para gerenciamento de estado.
 
 - **Backend:**
@@ -41,18 +41,18 @@ O FastEat é um projeto inovador de delivery de comida que visa proporcionar uma
     - MongoDB como banco de dados para armazenar informações de usuários, restaurantes e pedidos.
 
 - **Pagamentos Online:**
-    - Integração com Stripe para transações seguras.
+    - Integração com pagseguro para transações seguras.
 
 ## Como Executar o Projeto
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/fast-eat.git
+    git clone https://github.com/EdivaldoC/Mobile.git
     ```
 
 2. Instale as dependências:
     ```bash
-    cd fast-eat
+    cd food-delicioso
     npm install
     ```
 
@@ -65,8 +65,10 @@ O FastEat é um projeto inovador de delivery de comida que visa proporcionar uma
 
 ## Contribuição
 
-O FastEat é um projeto em constante evolução. Se você deseja contribuir, sinta-se à vontade para criar issues, enviar pull requests ou fornecer feedback. Juntos, podemos tornar o FastEat ainda melhor!
+O Food Delicioso é um projeto em constante evolução. Se você deseja contribuir, sinta-se à vontade para criar issues, enviar pull requests ou fornecer feedback. Juntos, podemos tornar o FastEat ainda melhor!
 
 ---
 
-**Equipe FastEat - Desenvolvimento de Software | Faculdade XYZ**
+**Equipe Food Delicioso - Programação para dispositivos móveis | Universidade Católica de Pernambuco**
+
+Alunos: Bruna, Éber Candeia, Edivaldo coelho, Fabyane, Richard Henrique, Thyago Henrique, Silas Sousa.
