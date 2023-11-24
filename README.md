@@ -29,7 +29,7 @@ Food Delicioso é um projeto inovador de delivery de comida que visa proporciona
 - **Notificações em Tempo Real:**
     - Notificações instantâneas sobre o status do pedido, promoções e ofertas especiais.
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - **Frontend:**
     - React Native
