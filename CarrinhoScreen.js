@@ -3,16 +3,15 @@ import { View, Text, Image, ScrollView, TouchableOpacity } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { ShoppingBagIcon, PlusCircleIcon, MinusCircleIcon } from 'react-native-heroicons/solid';
 import * as Animatable from 'react-native-animatable';
-import Icon from 'react-native-vector-icons/Ionicons'; // Substitua 'Ionicons' pelo pacote de ícones que você estiver usando
+import Icon from 'react-native-vector-icons/Ionicons'; 
 import { ChevronLeftIcon } from 'react-native-heroicons/solid'
-// Exemplo de dados do carrinho
+
 const cartItems = [
   { id: 1, name: 'Hamburguer', price: 10, quantity: 2 },
   { id: 2, name: 'Pizza', price: 15, quantity: 1 },
-  // Adicione mais itens conforme necessário
+
 ];
 
-// ... imports ...
 
 export default function CarrinhoScreen({ navigation }) {
   const [cart, setCart] = useState(cartItems);
